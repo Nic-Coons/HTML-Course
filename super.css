@@ -1,0 +1,99 @@
+html {
+	background-color:#666666;
+}
+
+nav {
+	float:top;
+	color:red;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+h1 {
+	color:lightgreen;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration:underline overline;
+	text-shadow: 2px 2px green;
+	
+}
+#table1 td {
+  color:lightgreen;
+  border:1px solid black;
+  border-spacing:1.5em; 
+  caption-side:bottom;
+  border-color:lightgreen;
+  padding:10px;
+  
+	
+}
+
+body {
+	
+	font-family:Arial, Helvetica, sans-serif;
+	width:700px;
+	margin:0 auto;
+	padding:1em;
+	border:1px solid navy;
+	background-color:black;
+	
+}
+li {
+	color:lightgreen;
+	display:inline;
+	
+}
+
+h2 {
+	color:lightgreen;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-right: auto; 
+	text-shadow: -4px -4px 3px green;
+	
+}
+
+
+p {
+	color:#fff32f;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+blockquote {
+	color:white;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.crazy {
+	border: 30px dotted orange;
+	border-bottom-color:red;
+	border-top-color:yellow;
+	border-radius:25px;
+	
+}
+
+#awesome {
+	height:100%;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	
+
+.
